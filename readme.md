@@ -77,4 +77,10 @@ Go to lesson 5 to see implementation
 => Go to npmjs.com website 
 
 #### How to use external modules or packages?
-=> 
+=> At first initilize npm once in a project, then install whatever package you want to use using npm and follow the documentation and use.
+
+========================================
+
+# Routing
+
+**NB: Go to lesson 7 to see the implementation
